@@ -22,3 +22,5 @@ Results Lighthouse Audits:
 3) Accessibility: 94%;
 4) Best Practices: 100%;
 5) SEO: 100%;
+
+test
