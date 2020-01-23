@@ -1,7 +1,7 @@
 # Alex-Dolid.github.io
 
-My portfolio is done on React.JS
-Link: https://alex-dolid.github.io
+My portfolio is done on React.JS;
+Link to the project: https://alex-dolid.github.io;
 
 Tools Implemented:
 1) UX Design;
